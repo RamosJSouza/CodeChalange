@@ -47,11 +47,6 @@ Desenvolvedor **Full Stack Pleno-Sênior**, com experiência em desenvolvimento 
 
 ---
 
-### 📌 Como contribuir
-Se você também gosta de desafios em React, fique à vontade para abrir issues, sugerir melhorias ou enviar pull requests! 🚀
-
----
-
 ## 🇺🇸 English
 
 ### 📙 Code Challenges in React
@@ -92,7 +87,3 @@ Each folder contains:
 - [Blog](http://www.ramosdainformatica.com.br)  
 - ✉️ ramosinfo@gmail.com  
 
----
-
-### 📌 How to contribute
-If you also enjoy React challenges, feel free to open issues, suggest improvements, or submit pull requests! 🚀
